@@ -1,0 +1,27 @@
+# Essential Jenkins Plugins
+# Format: plugin-id[:version]
+
+# SCM Plugins
+git
+github
+subversion
+
+# Build Tools
+maven-plugin
+gradle
+
+# Pipeline Plugins
+workflow-aggregator
+pipeline-stage-view
+
+# UI Plugins
+blue-ocean
+
+# Authentication Plugins
+matrix-auth
+ldap
+
+# Utility Plugins
+timestamp
+credentials
+workspace-cleanup
